@@ -1,23 +1,21 @@
-<h2>Hi, I'm WaSim AkrAm! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Hi, I'm Adeel Abbasi! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <br/>
-<a href="https://twitter.com">
-  <img align="left" alt="Hackerwasii| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.instagram.com/__empty254__/">
+
+<a href="https://www.instagram.com/discountsmaniaC">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://github.com/evildevill">
+<a href="https://github.com/adeel123355">
   <img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/github.svg" />
 </a>
-<a href="https://wa.me/+923137119351">
+<a href="https://wa.me/+923364825005">
   <img align="left" alt="whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/whatsapp.svg" />
 </a>
 <br/>
 <br/>
 
 ### Hi 🙋‍♂️,
-### I'm 18 years old Self-taught developer, technical support engineer , Graphics Designer from Pakistan.
+### I'm 28 years old Self-taught developer, technical support engineer , Website  Developer  from Pakistan.
 
 <br/>
 
@@ -27,16 +25,6 @@
 **Machine Learning, Web Development, Mobile Application Development, Cloud Computing, Linux, System Design & Programming**
 
 <br/>
-
-<a href="https://github.com/evildevill">
-  <img src="https://github-readme-stats.vercel.app/api?username=evildevill&show_icons=true" alt="evildevill GitHub Stats" />
-</a>
-
-<br />
-
-*************
-
-<br />
 
 ### Languages and Tools...
 
@@ -56,11 +44,10 @@
 #### Thank You-🙏🏼
 
 <p>
-<img src="https://visitor-badge.laobi.icu/badge?page_id=HackerWaSi" alt="visitor badge"/>
 </p>
 
 
-Evil Devill (Devil FaceBook Hacking Tool)
+Evil Devill (Devil FaceBook Hacking Tool by adeel123355)
                 
 <p align="center">
   <a href="http://mocrz.blogspot.com/">
